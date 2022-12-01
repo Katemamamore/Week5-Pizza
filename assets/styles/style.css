@@ -1,0 +1,8 @@
+a {text-decoration: none;} 
+a:hover {text-decoration: underline;}
+.logo{border: 1px solid red;
+    position: relative;
+    top: 150 px;
+    left: 70 px;
+
+}
